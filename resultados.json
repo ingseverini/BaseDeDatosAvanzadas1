@@ -1,0 +1,7 @@
+[
+  { "encuentro": "Partido 1", "marcador": "3-2", "eventos_destacados": ["Gol de Carlos Perez", "Tarjeta Roja a Mario Alvarez"] },
+  { "encuentro": "Partido 2", "marcador": "1-1", "eventos_destacados": ["Gol de Jhonny Toloza", "Penal detenido por Mario Alvarez"] },
+  { "encuentro": "Partido 3", "marcador": "2-0", "eventos_destacados": ["Gol de Juan Sierra", "Asistencia de Junior de Barranquilla"] },
+  { "encuentro": "Partido 4", "marcador": "0-3", "eventos_destacados": ["Gol de Jugador 6", "Tarjeta Amarilla a Jugador 7"] },
+  { "encuentro": "Partido 5", "marcador": "2-2", "eventos_destacados": ["Gol de Jugador 8", "Gol en propia puerta de Jugador 9"] }
+]

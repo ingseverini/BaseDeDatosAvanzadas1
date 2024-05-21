@@ -1,0 +1,7 @@
+[
+  { "nombre": "Junior", "jugadores": ["Carlos Perez", "Jugador 4", "Jugador 7"], "posicion": 1 },
+  { "nombre": "Once Caldas", "jugadores": ["Jhonny Toloza", "Jugador 5", "Jugador 8"], "posicion": 2 },
+  { "nombre": "Deportivo Cali", "jugadores": ["Mario Alvarez", "Jugador 6", "Jugador 9"], "posicion": 3 },
+  { "nombre": "Tolima", "jugadores": ["Juan Sierra", "Jugador 10", "Jugador 11"], "posicion": 4 },
+  { "nombre": "Union Magdalena", "jugadores": ["Junior de Barranquilla", "Jugador 12", "Jugador 13"], "posicion": 5 }
+]

@@ -1,0 +1,7 @@
+[
+  { "nombre": "Carlos Perez", "edad": 25, "posicion": "Delantero", "equipo": "Junior" },
+  { "nombre": "Jhonny Toloza", "edad": 28, "posicion": "Defensa", "equipo": "Once Caldas" },
+  { "nombre": "Mario Alvarez", "edad": 23, "posicion": "Portero", "equipo": "Deportivo Cali" },
+  { "nombre": "Juan Sierra", "edad": 27, "posicion": "Mediocampista", "equipo": "Tolima" },
+  { "nombre": "Junior de Barranquilla", "edad": 30, "posicion": "Defensa", "equipo": "Union Magdalena" }
+]

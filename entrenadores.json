@@ -1,0 +1,7 @@
+[
+  { "nombre": "Coco Basilio", "equipo": "Junior", "experiencia": "10 años", "logros": "Campeón Nacional 2019" },
+  { "nombre": "Pacho Maturana", "equipo": "Once Caldas", "experiencia": "8 años", "logros": "Subcampeón Copa 2020" },
+  { "nombre": "Bolillo Gomez", "equipo": "Deportivo Cali", "experiencia": "5 años", "logros": "Mejor Entrenador 2021" },
+  { "nombre": "Jose Pekerman", "equipo": "Tolima", "experiencia": "12 años", "logros": "Campeón Liga 2018" },
+  { "nombre": "Pep Guardiola", "equipo": "Union Magdalena", "experiencia": "7 años", "logros": "Mejor Táctica 2022" }
+]
